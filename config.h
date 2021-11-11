@@ -55,8 +55,8 @@
     #define RGBLIGHT_VAL_STEP 17
 #endif
 
-//#define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
-#define OLED_FONT_H "keyboards/crkbd/keymaps/scipio/glcdfont.c"
+#define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
+//#define OLED_FONT_H "keyboards/crkbd/keymaps/scipio/glcdfont.c"
 
 // https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/
 // if there are size problems descomment
