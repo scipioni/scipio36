@@ -22,7 +22,7 @@ qmk setup
 
 ## personalize (optional)
 
-Upload keyboards/crkbd/keymaps/scipio36scipio36-miryoku.json on https://config.qmk.fm and modify
+Upload keyboards/crkbd/keymaps/scipio36/scipio36-miryoku.json on https://config.qmk.fm and modify
 
 Download scipio36-miryoku.json and make layout.h
 ```
