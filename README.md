@@ -1,5 +1,5 @@
 # scipio36
-My corne crkbd qmk layout with 36 key and miryoku directives
+My corne crkbd qmk layout with 36 keys and miryoku directives
 
 ## personalize
 
