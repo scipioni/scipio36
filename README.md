@@ -12,12 +12,12 @@ qmk repo
 ```
 git clone https://github.com/qmk/qmk_firmware.git
 git clone https://github.com/scipioni/scipio36.git keyboards/crkbd/keymaps/scipio36
-``
+```
 
 setup qmk
 ```
 qmk setup
-``
+```
 
 
 ## personalize (optional)
