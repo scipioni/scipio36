@@ -11,7 +11,11 @@
 
 #define MASTER_LEFT
 //#define MASTER_RIGHT
-//#define EE_HANDS
+
+// sets the keyboard's handedness by setting a flag in the persistent storage (EEPROM)
+// make crkbd:scipio36:avrdude-split-left
+// make crkbd:scipio36:avrdude-split-right
+#define EE_HANDS
 
 //#define SSD1306OLED
 
